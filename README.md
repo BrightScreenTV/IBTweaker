@@ -10,7 +10,7 @@ I was getting fed up with wanting to change the font used in a UI halfway throug
 
 With `IBTweaker`, you open a `.storyboard` file, choose a font from the drop down menu and type a size in the box next to it.
 
-Clicking the bottom button will make `IBTweaker` to use `REGEX` and replace any entry in the file that matches the pattern:
+Clicking the bottom button will make `IBTweaker` use `REGEX` and replace any entry in the file that matches the pattern:
 
 `<font\\skey=\"font\"\\s(metaFont=\"|size=\")(.+)>`
 
