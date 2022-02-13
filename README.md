@@ -2,7 +2,7 @@
 
 ## A small, very simple utility to change [ultimately] various parts of a `.storyboard` file as used in Xcode.
 
-### PLEASE NOTE: this little app gives you the ability to alter your storyboard. You do it at your own risk!! It's worked OK for me, but make sure you backup your project before using it! _You have been warned._
+### PLEASE NOTE: this little app gives you the ability to alter your storyboard at low level. You do it at your own risk!! It's worked OK for me, but make sure you backup your project before using it! _You have been warned._
 
 ***
 
