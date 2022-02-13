@@ -15,3 +15,5 @@ Clicking the bottom button will make `IBTweaker` to use `REGEX` and replace any 
 `<font\\skey=\"font\"\\s(metaFont=\"|size=\")(.+)>`
 
 Save the file and when you open XCode (or if you have it open and you've loaded a storyboard being currently used) you'll see the UI updated with a new font.
+
+_Goal:_ To keep adding abilities to change more paramters to multiple items.
